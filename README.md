@@ -20,7 +20,7 @@
 
 名单
 ---
-- [ah996.list](https://github.com/ah996.icu/tree/main/blacklist) 安徽省内的996上榜公司
+- [ah996.list](https://github.com/anhuikfz/ah996.icu/tree/main/blacklist) 安徽省内的996上榜公司
 
 
 扩大影响
